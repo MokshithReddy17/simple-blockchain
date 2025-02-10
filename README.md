@@ -14,7 +14,7 @@ This project is a **Blockchain Simulation** designed to demonstrate the fundamen
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mokshithreddy17/blockchain-simulation.git
+   git clone https://github.com/mokshithreddy17/simple-blockchain.git
    cd blockchain-simulation
    ```
 2. Install dependencies:
